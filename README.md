@@ -1,3 +1,50 @@
+
+# Nasa-pic-of-day-app
+
+Aplicación movil multiplataforma desarrollada con React Native CLI. 
+
+
+
+## Introducción
+
+Consumiendo la Api de la NASA obtenemos la imagen del día con información detallada de la imagen. Cuenta con una sección donde muestra a las imagenes de los ultimos 5 días.
+
+## Instalación
+
+Instala Nasa-pic-of-day-app con npm
+
+```bash
+  git clone https://github.com/francogaray/nasa-pic-of-day.git
+  
+  cd Nasa-pic-of-day
+
+  npm install
+
+  npm start
+```
+    
+## Tech Stack
+
+**Client:** React, ReactNative CLI.
+
+**Server:** Node Js.
+
+## Screenshots 
+
+ Ios:
+
+<img src="https://github.com/francogaray/nasa-pic-of-day/assets/99786651/3bceb17c-d163-425f-ab3a-5165690845ea" alt="Phone SE (3rd generation)" width="300px">
+<img src="https://github.com/francogaray/nasa-pic-of-day/assets/99786651/c8cb9807-955b-4f93-871e-cff50e7dd224" alt="Phone SE (3rd generation)" width="300px">
+<img src="https://github.com/francogaray/nasa-pic-of-day/assets/99786651/8eb59a6c-2cc1-4da2-b6b0-381ee7750552" alt="Phone SE (3rd generation)" width="300px">
+
+## Authors
+
+- [@francogaray](https://github.com/francogaray)
+
+![Uploading Simulator Screen Shot - iPhone SE (3rd generation) - 2023-11-23 at 18.13.26.png…]()
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
